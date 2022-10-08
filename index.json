@@ -1,6 +1,20 @@
-{
-    "userName": "Bob",
-    "password": "secret",
-    "price": 399,
-    "includesVAT": true
-}
+[
+    {
+        "userName": "Bob",
+        "password": "secret",
+        "price": 399,
+        "includesVAT": true
+    },
+    {
+        "userName": "Bob",
+        "password": "secret",
+        "price": 399,
+        "includesVAT": true
+    },
+    {
+        "userName": "Bob",
+        "password": "secret",
+        "price": 399,
+        "includesVAT": true
+    }
+]
